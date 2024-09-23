@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeminiChatbot.Server", "GeminiChatbot.Server\GeminiChatbot.Server.csproj", "{57BA2AF3-82FC-476D-AE9E-D6351EF2C12F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "geminichatbot.client", "geminichatbot.client\geminichatbot.client.esproj", "{8A75749E-27D5-4896-B435-EC97661F7F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57BA2AF3-82FC-476D-AE9E-D6351EF2C12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BA2AF3-82FC-476D-AE9E-D6351EF2C12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BA2AF3-82FC-476D-AE9E-D6351EF2C12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BA2AF3-82FC-476D-AE9E-D6351EF2C12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A75749E-27D5-4896-B435-EC97661F7F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A75749E-27D5-4896-B435-EC97661F7F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A75749E-27D5-4896-B435-EC97661F7F4C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8A75749E-27D5-4896-B435-EC97661F7F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A75749E-27D5-4896-B435-EC97661F7F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A75749E-27D5-4896-B435-EC97661F7F4C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CF26B5F-2AE8-435E-BA86-18FCA42D0B54}
+	EndGlobalSection
+EndGlobal
